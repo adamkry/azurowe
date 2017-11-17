@@ -1,0 +1,12 @@
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\bin\Debug\netcoreapp2.0\azurowe.deps.json
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\bin\Debug\netcoreapp2.0\azurowe.runtimeconfig.json
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\bin\Debug\netcoreapp2.0\azurowe.runtimeconfig.dev.json
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\bin\Debug\netcoreapp2.0\azurowe.dll
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\bin\Debug\netcoreapp2.0\azurowe.pdb
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\obj\Debug\netcoreapp2.0\azurowe.csprojResolveAssemblyReference.cache
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\obj\Debug\netcoreapp2.0\azurowe.csproj.CoreCompileInputs.cache
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\obj\Debug\netcoreapp2.0\azurowe.AssemblyInfoInputs.cache
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\obj\Debug\netcoreapp2.0\azurowe.AssemblyInfo.cs
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\obj\Debug\netcoreapp2.0\azurowe.dll
+C:\Users\AdamKrygowski\Documents\Visual Studio 2017\Projects\azurowe\azurowe\obj\Debug\netcoreapp2.0\azurowe.pdb

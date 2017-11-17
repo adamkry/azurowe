@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2jSqGqFSZk6HLAI356v09gAAAAACAAAAAAAQZgAAAAEAACAAAACt7tuR9NpC7h21m3k8fk1XlA6lzlBoFRmvdywfWuFKXwAAAAAOgAAAAAIAACAAAAChZoQ7qOVag6K100BV8n7LydbTPYCUXr1Nt8bPaB593YAAAACySWChDRD7cgxA/lN/LD0J+ue91RnYZqRgD6SNMDk9xz/ZvKd4eugzJAZPFfnAszTZZAZ+cJEFNQkGk25YgYr7WKl5KWmG6yAwhQkqI3GZ3bZbWST8xULDq8zkRcu75sQABgXqgs4R8e8YEK/qJbThed6fx5AX3xNhZJwflIyxu0AAAACGFZxqdDXb4fopgeHKPPH0zUL7FRCWSj8XsJLk7AYZIKBNCl75MG/XgMjPSmXTrVk6r6vALtgmioTAd8gTLhrP</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:azurowe2017dbserver.database.windows.net,1433;Initial Catalog=azurowe2017_db;User Id=sqladmin@azurowe2017dbserver;Password=Pa$$w0rd2</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="azurowe.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:azurowe2017dbserver.database.windows.net,1433;Initial Catalog=azurowe2017_db;User Id=sqladmin@azurowe2017dbserver;Password=Pa$$w0rd2</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
